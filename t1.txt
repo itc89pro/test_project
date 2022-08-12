@@ -1,2 +1,3 @@
 man shro kardam
 two line data
+ last line add by echo t2.txt
